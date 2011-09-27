@@ -1,19 +1,25 @@
 Source: ksnapshot
 Section: graphics
 Priority: optional
-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
-XSBC-Original-Maintainer: Harald Sitter <apachelogger@ubuntu.com>
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Eshat Cakar <info@eshat.de>
 Build-Depends: kde-sc-dev-latest (>= 4:4.7.1),
- cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.6), libxfixes-dev, libkipi-dev
+ 	       kdelibs5-dev (>= 4:4.7), 
+ 	       cmake, 
+	       debhelper (>= 7.3.16), 
+	       pkg-kde-tools,
+	       libxfixes-dev, 
+	       libkipi-dev
 Standards-Version: 3.9.2
 Homepage: http://www.kde.org/
-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/ksnapshot
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/ksnapshot
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/ksnapshot.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/ksnapshot.git
 
 Package: ksnapshot
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Breaks: okular (<= 4:4.6.3-2~)
+Replaces: okular (<= 4:4.6.3-2~)
 Description: screen capture tool
  KSnapshot captures images of the screen.  It can capture the whole screen,
  a specified region, an individual window, or only part of a window.
