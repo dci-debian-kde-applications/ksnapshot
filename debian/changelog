@@ -1,5 +1,6 @@
-ksnapshot (4:4.7.2-0rc0) UNRELEASED; urgency=low
+ksnapshot (4:4.7.2-0rc0) experimental; urgency=low
 
+  [ Eshat Cakar ]
   * Initial release. Start from the Kubuntu packaging, thanks!
 
- -- Eshat Cakar <info@eshat.de>  Tue, 04 Oct 2011 23:02:54 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:45:48 -0300
