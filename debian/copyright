@@ -41,6 +41,9 @@ Files: kipiimagecollectionselector.cpp
        kipiimagecollectionselector.h
        windowgrabber.cpp
        windowgrabber.h
+Copyright: 2010-2011, Pau Garcia i Quiles <pgquiles@elpauer.org>
+	   2008, Aurélien Gâteau <agateau@kde.org>
+	   2004, Bernd Brandstetter <bbrand@freenet.de>
 License: GPL-2+
 
 Files: doc/*
