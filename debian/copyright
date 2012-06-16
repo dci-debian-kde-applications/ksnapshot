@@ -1,4 +1,4 @@
-Format: http://www.debian.org/doc/copyright-format/1.0
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: KSnapshot
 Upstream-Contact: kde-devel@kde.org
 Source: ftp.kde.org
@@ -33,17 +33,16 @@ License: LGPL-2+
  Foundation, Inc., 51 Franklin Street, Fifth Floor,
  Boston, MA 02110-1301, USA.
  .
- On Debian systems, the full text of the GNU Lesser General Public
- License version 2 can be found in the file
- `/usr/share/common-licenses/LGPL-2'. 
+ On Debian systems, the full text of the GNU Lesser General Public License
+ version 2 can be found in the file `/usr/share/common-licenses/LGPL-2'.
 
 Files: kipiimagecollectionselector.cpp
        kipiimagecollectionselector.h
        windowgrabber.cpp
        windowgrabber.h
 Copyright: 2010-2011, Pau Garcia i Quiles <pgquiles@elpauer.org>
-	   2008, Aurélien Gâteau <agateau@kde.org>
-	   2004, Bernd Brandstetter <bbrand@freenet.de>
+           2008, Aurélien Gâteau <agateau@kde.org>
+           2004, Bernd Brandstetter <bbrand@freenet.de>
 License: GPL-2+
 
 Files: doc/*
@@ -62,7 +61,7 @@ License: GFDL-1.2+
 
 Files: debian/*
 Copyright: 2011, Harald Sitter <apachelogger@ubuntu.com>
-	   2011-2012, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+           2011-2012, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 License: GPL-2+
 
 License: GPL-2+
