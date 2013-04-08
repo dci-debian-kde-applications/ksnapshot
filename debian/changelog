@@ -1,4 +1,4 @@
-ksnapshot (4:4.10.0-0r1) UNRELEASED; urgency=low
+ksnapshot (4:4.10.2-1) experimental; urgency=low
 
   [ Diane Trout ]
   * New upstream release. 
@@ -7,7 +7,7 @@ ksnapshot (4:4.10.0-0r1) UNRELEASED; urgency=low
   * Bump build-deps.
   * Add myself to uploaders.
 
- -- Diane Trout <diane@ghic.org>  Sat, 23 Feb 2013 10:57:30 -0800
+ -- Sune Vuorela <sune@debian.org>  Mon, 08 Apr 2013 19:46:13 +0000
 
 ksnapshot (4:4.8.4-1) unstable; urgency=low
 
