@@ -9,7 +9,7 @@ Build-Depends: cmake,
                debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.12),
                kdelibs5-dev,
-               libkipi-dev (>= 4:15.04.0),
+               libkipi-dev (>= 4:15.04.1),
                libxext-dev,
                libxfixes-dev,
                pkg-kde-tools (>= 0.12)
