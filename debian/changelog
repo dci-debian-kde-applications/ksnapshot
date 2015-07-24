@@ -1,10 +1,11 @@
-ksnapshot (4:15.04.3-1~) UNRELEASED; urgency=medium
+ksnapshot (4:15.04.3-1) unstable; urgency=medium
 
   * New upstream release (15.04.3).
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Update Vcs urls for the new repository location.
+  * Add myself to uploaders.
 
- -- Jeremy Lainé <jeremy.laine@m4x.org>  Thu, 23 Jul 2015 20:31:38 +0200
+ -- Jeremy Lainé <jeremy.laine@m4x.org>  Fri, 24 Jul 2015 18:14:07 +0200
 
 ksnapshot (4:4.12.2-2) unstable; urgency=medium
 
