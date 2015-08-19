@@ -13,7 +13,7 @@ Build-Depends: cmake,
                libxext-dev,
                libxfixes-dev,
                pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/ksnapshot.git/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/ksnapshot.git
